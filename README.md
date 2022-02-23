@@ -1,5 +1,5 @@
 # seeds
-second organic layer is not just a code .
+second organic layer is not just a code.
 
 welcome to the seeds project where we integrate nature with codes and processors.
 
